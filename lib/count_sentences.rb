@@ -18,5 +18,6 @@ class String
     self.split('.')
     self.split('!')
     self.split('?')
+    binding.pry
   end
 end
