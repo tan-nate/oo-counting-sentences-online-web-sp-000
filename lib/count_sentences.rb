@@ -18,6 +18,5 @@ class String
     split_sentence = self.split(/[.?!]/)
     split_sentence.delete("")
     split_sentence.length
-    #binding.pry
   end
 end
